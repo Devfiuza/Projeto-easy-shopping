@@ -10,3 +10,7 @@
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 
 <img src="https://github.com/Devfiuza/Projeto-easy-shopping/blob/main/assets/easy-shopping-desktop.png?raw=true" />
+<br>
+<h4>E aqui eu aprendi sobre responsividade :</h4>
+<br>
+<img src="https://github.com/Devfiuza/Projeto-easy-shopping/blob/main/assets/easy-shopping-mobile.png?raw=true">
